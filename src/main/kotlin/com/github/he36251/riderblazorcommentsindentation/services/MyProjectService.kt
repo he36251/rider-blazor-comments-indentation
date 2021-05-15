@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.he36251.riderblazorcommentsindentation.services
 
+import com.github.he36251.riderblazorcommentsindentation.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
